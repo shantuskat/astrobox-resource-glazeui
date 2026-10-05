@@ -38,10 +38,6 @@
       "required": [
         {
           "type": "resource",
-          "id": "canopus_corona"
-        },
-        {
-          "type": "resource",
           "id": "ng.lst.corona"
         },
         {
