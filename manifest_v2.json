@@ -54,13 +54,13 @@
         {
           "type": "resource",
           "id": "canopus_manager"
-        },
-        {
-          "type": "resource",
-          "id": "canopus_corona"
         }
       ],
       "recommended": [
+        {
+          "type": "resource",
+          "id": "canopus_corona"
+        },
         {
           "type": "resource",
           "id": "979852930386"
